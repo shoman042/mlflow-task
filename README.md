@@ -15,8 +15,7 @@ The same model, `GradientBoostingRegressor`, is trained **three times** with dif
 ```bash
 # 1. Create and activate a virtual environment
 python -m venv venv
-venv\Scripts\activate          # Windows
-# source venv/bin/activate     # Mac / Linux
+venv\Scripts\activate         
 
 # 2. Install dependencies
 pip install -r requirements.txt
